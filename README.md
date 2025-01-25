@@ -1,7 +1,7 @@
-University Library Management System Database
+# University Library Management System Database
 This project is a university library management system database designed and implemented as part of an academic project. The system models and manages library operations using a structured database approach, ensuring efficiency, accuracy, and performance optimization.
 
-Key Highlights
+# Key Highlights
 Database Design
 
 Created an Entity-Relationship Diagram (ERD) to model the library scenario.
@@ -29,7 +29,7 @@ ERD: Visual representation of the database structure.
 SQL Scripts: Includes scripts for creating tables, inserting sample data, defining constraints, and implementing triggers, views, stored procedures, and indexes.
 Documentation: Explains the design decisions, use cases, and implementation details.
 
-Installation and Usage
+# Installation and Usage
 
 Clone the repository
 Import the SQL scripts into MS SQL Server.
@@ -42,6 +42,6 @@ Database Management System: Microsoft SQL Server
 Design Tools: ERD and logical model diagrams (created using  Draw.io, SQL Server Management Studio])
 
 
-Database Vulnerabilities and Mitigation Techniques
+# Database Vulnerabilities and Mitigation Techniques
 Objective
 This project focuses on analyzing two critical database vulnerabilities, their techniques of exploitation, their impact, and countermeasures to mitigate these vulnerabilities. It includes detailed research, practical examples, and mitigation strategies.
